@@ -1,5 +1,5 @@
 <div class="designer-credit">
-    DESIGNED BY RUBANGAKENE SAMUEL
+    Powered by <a href="https://www.rubangakenesamuel.com" target="_blank">Rubangakene Samuel</a>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
